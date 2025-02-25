@@ -1,0 +1,22 @@
+Income: 4500
+Savings: 1500
+SavingsGoal: 6000
+Expenses:
+Groceries, Milk, 3.50
+Groceries, Bread, 2.25
+Groceries, Eggs, 4.00
+Utilities, Electricity, 50.00
+Utilities, Water, 30.00
+Utilities, Internet, 45.00
+Transport, Gas, 60.00
+Transport, Bus Pass, 20.00
+Entertainment, Movie Tickets, 15.00
+Entertainment, Streaming Service, 12.99
+Health, Gym Membership, 35.00
+Health, Vitamins, 20.50
+Personal, Clothing, 100.00
+Personal, Haircut, 25.00
+Education, Books, 80.00
+Education, Online Course, 50.00
+Miscellaneous, Donation, 10.00
+Miscellaneous, Gifts, 40.00
