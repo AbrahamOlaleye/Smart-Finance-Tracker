@@ -26,19 +26,21 @@ Smart Finance Tracker is a **Python-based personal finance assistant** designed 
 
 ## Installation & Setup
 1. **Clone the Repository**
-```  
-git clone https://github.com/AbrahamOlaleye/smart-finance-tracker.git
-cd smart-finance-tracker  
+``` 
 
+git clone https://github.com/AbrahamOlaleye/Smart-Finance-Tracker.git
+cd Smart-Finance-Tracker 
 ```  
 
 2. **Install Dependencies**
-```  
+```
+
 pip install seaborn matplotlib  
 ```
 
 3. **Run the Application**
-```  
+```
+
 python finance_assistant.py 
 ```
 
