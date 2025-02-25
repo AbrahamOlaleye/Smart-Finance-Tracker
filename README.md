@@ -6,35 +6,41 @@ Smart Finance Tracker is a **Python-based personal finance assistant** designed 
 ---
 
 ## Features
-✔ **Automated Transaction Tracking** – Records and categorizes **100+ transactions**, including income and expenses.  
-✔ **Database Integration** – Uses **SQLite** to store and manage financial records securely.  
-✔ **Data Visualization** – Generates interactive charts with **Seaborn and Matplotlib** for better financial insights.  
-✔ **User-Friendly Interface** – Includes **error handling and input validation** to ensure accurate data entry.  
-✔ **Savings Goal Management** – Allows users to set and track savings goals dynamically.  
-✔ **Unit Testing** – Implements **Python’s unittest framework** to ensure program reliability.
+**Automated Transaction Tracking** – Records and categorizes **100+ transactions**, including income and expenses.  
+**Database Integration** – Uses **SQLite** to store and manage financial records securely.  
+**Data Visualization** – Generates interactive charts with **Seaborn and Matplotlib** for better financial insights.  
+**User-Friendly Interface** – Includes **error handling and input validation** to ensure accurate data entry.  
+**Savings Goal Management** – Allows users to set and track savings goals dynamically.  
+**Unit Testing** – Implements **Python’s unittest framework** to ensure program reliability.
 
 ---
 
 ## Technologies Used
-🔹 **Programming Language**: Python  
-🔹 **Data Storage**: SQLite Database  
-🔹 **Visualization**: Matplotlib, Seaborn  
-🔹 **Error Handling & Validation**: Regular Expressions (Regex)  
-🔹 **Testing Framework**: Python unittest  
+**Programming Language**: Python  
+**Data Storage**: SQLite Database  
+**Visualization**: Matplotlib, Seaborn  
+**Error Handling & Validation**: Regular Expressions (Regex)  
+**Testing Framework**: Python unittest  
 
 ---
 
 ## Installation & Setup
 1. **Clone the Repository**
-git clone https://github.com/your-username/smart-finance-tracker.git
-cd smart-finance-tracker
+```  
+git clone https://github.com/AbrahamOlaleye/smart-finance-tracker.git
+cd smart-finance-tracker  
+
+```  
 
 2. **Install Dependencies**
-pip install pandas seaborn matplotlib sqlite3
+```  
+pip install seaborn matplotlib  
+```
 
 3. **Run the Application**
-python finance_assistant.py
-
+```  
+python finance_assistant.py 
+```
 
 ---
 
